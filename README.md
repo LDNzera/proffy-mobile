@@ -1,12 +1,52 @@
-# Funcionalidades:
+# Repositório da Semana Omnistack 10
+# Skills:
+- Node.js
+- React 
+- React Native
+- MongoDb
+- WebSocket
+- API Rest
 
-## Conexões:
+# Requisitos:
+- Node.js
+- Yarn
+- Git
+- Expo
 
-- Rota para listar as conexões já realizadas;
-- Rota para criar/atualizar uma nova conexão;
+# Para executar:
+`git clone https://github.com/giraudgabriel/Multiroom-Chat.git`
+<br>
+<br>
+# Web:
+```
+cd web
+yarn install
+yarn start
+```
 
-## Aulas:
 
-- Rota para criar uma aula;
-- Rota para listar aulas;
-  - Filtrar por: matéria, dia da semana e horário.
+<img src="images/web.png">
+<br>
+
+# Mobile:
+```
+cd mobile
+yarn install
+yarn start
+```
+<p>
+<img src="images/mobile1.jpeg" width="200">
+<img src="images/mobile2.jpeg" width="200">
+<img src="images/mobile3.jpeg" width="200">
+<img src="images/mobile4.jpeg" width="200">
+</p>
+
+<br>
+
+# Backend:
+```
+cd backend
+yarn install
+yarn dev
+```
+
